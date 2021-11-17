@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestNinja.UnitTests", "..\TestNinja.UnitTests\TestNinja.UnitTests.csproj", "{771F9BF5-DBD2-41EF-8AFC-B23F19E0B783}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestNinja", "..\TestNinja\TestNinja.csproj", "{820040EE-CE64-4E6B-9AB2-15B0C204999F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{771F9BF5-DBD2-41EF-8AFC-B23F19E0B783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771F9BF5-DBD2-41EF-8AFC-B23F19E0B783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771F9BF5-DBD2-41EF-8AFC-B23F19E0B783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771F9BF5-DBD2-41EF-8AFC-B23F19E0B783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{820040EE-CE64-4E6B-9AB2-15B0C204999F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820040EE-CE64-4E6B-9AB2-15B0C204999F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820040EE-CE64-4E6B-9AB2-15B0C204999F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820040EE-CE64-4E6B-9AB2-15B0C204999F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB9CCDD3-147A-4E7A-8539-B9DD6C664001}
+	EndGlobalSection
+EndGlobal
